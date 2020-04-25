@@ -14,7 +14,7 @@ args+=" --git-user-id jeroenvdwaal"
 args+=" --git-repo-id home-connect-sdk"
 
 
-# next gets the most recent version of the openapi generator cli
+# get the most recent version of the openapi generator cli
 # requires maven and other dependencies to be installed
 # ref: https://openapi-generator.tech/docs/installation/
 
