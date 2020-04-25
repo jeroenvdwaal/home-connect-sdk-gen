@@ -1,0 +1,4 @@
+library: asyncio
+packageName: home_connect_sdk
+packageVersion: 1.0.0
+projectName: home-connect-sdk
